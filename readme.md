@@ -11,7 +11,7 @@ Template is build using sumbols. It contains artboards for favicon, icon, splash
 Following files are included:\
 \
 (dimensions in parentheses aren't part of the filename)\
-/
+\
 favicon (64x64)\
 \
 icon-72x72\
